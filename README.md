@@ -15,7 +15,7 @@
 
 - 🔭 Currently working on **Bayer PIM** at **Cognizant** — building scalable enterprise apps for 500+ users
 - 🌱 Currently exploring **GenAI**, **Prompt Engineering**, and **System Design**
-- 💬 Ask me about **React.js, Node.js, TypeScript, AWS, Microservices, CI/CD**
+- 💬 Ask me about **React.js, Node.js, TypeScript, AWS, CI/CD**
 - 🚀 4+ years of experience in full-stack development
 - 📫 Reach me at **shashank.workfolio@gmail.com**
 - 📍 Based in **Hyderabad, India**
@@ -124,7 +124,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shashank%20Raskas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-raskas)
 [![Gmail](https://img.shields.io/badge/Gmail-shashank.workfolio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashank.workfolio@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Shashank--Raskas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashank-Raskas)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Portfolio-4CAF50?style=for-the-badge&logo=githubpages&logoColor=white)](https://shashank-raskas.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Portfolio-4CAF50?style=for-the-badge&logo=githubpages&logoColor=white)](https://shashankraskas.vercel.app/)
 
 </div>
 
