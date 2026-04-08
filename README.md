@@ -87,11 +87,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shashank-Raskas&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%" alt="GitHub Trophies" />
-
-<br/>
-
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Shashank-Raskas?cardType=github&theme=radical&preferLogin=false" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shashank-Raskas&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=prs,issues,contribs" height="165" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-Raskas&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashank-Raskas&theme=radical" height="165" alt="Top Languages" />
