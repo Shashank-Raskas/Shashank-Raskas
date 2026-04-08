@@ -87,7 +87,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shashank-Raskas&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shashank-Raskas&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%" alt="GitHub Trophies" />
 
 <br/>
 
