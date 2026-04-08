@@ -87,7 +87,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shashank-Raskas&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=prs,issues,contribs" height="165" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-Raskas&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashank-Raskas&theme=radical" height="165" alt="Top Languages" />
