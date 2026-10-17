@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shashank%20Raskas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Software%20Engineer%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20AWS%20%E2%80%A2%20RAG%20%E2%80%A2%20LLMs&descSize=16&descAlignY=52" width="100%" alt="Shashank Raskas" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:6D28D9,100:C026D3&height=180&section=header&text=Shashank%20Raskas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Software%20Engineer%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20AWS%20%E2%80%A2%20RAG%20%E2%80%A2%20LLMs&descSize=16&descAlignY=52" width="100%" alt="Shashank Raskas" />
 
 <div align="center">
 
@@ -119,31 +119,36 @@ A full stack ordering app: React with Context API on the front end, a Node.js/Ex
 [![Claude Certified Developer, Foundations](https://img.shields.io/badge/Claude%20Certified%20Developer-Foundations-D97757?style=for-the-badge&logo=claude&logoColor=D97757&labelColor=191919)](https://www.credly.com/badges/19ec9a0c-0921-4e0a-a707-61679da26546/public_url)
 [![Claude Certified Associate, Foundations](https://img.shields.io/badge/Claude%20Certified%20Associate-Foundations-D97757?style=for-the-badge&logo=claude&logoColor=D97757&labelColor=191919)](https://www.credly.com/badges/a3b33699-4969-43db-94b5-bfa055a80b31/public_url)
 [![AWS Certified Cloud Practitioner](https://custom-icon-badges.demolab.com/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=aws&labelColor=232F3E)](https://www.credly.com/badges/870c002e-a384-4887-b5c7-f77b51d42093/public_url)
-[![Certified Scrum Master](https://img.shields.io/badge/Scrum%20Alliance-Certified%20Scrum%20Master%C2%AE-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white&labelColor=191919)](https://certification.scrumalliance.org/accounts/1774712-shashank-raskas/certifications/2106572-csm)
+[![Certified Scrum Master](https://img.shields.io/badge/Scrum%20Alliance-Certified%20Scrum%20Master%C2%AE-0052CC?style=for-the-badge&labelColor=191919)](https://certification.scrumalliance.org/accounts/1774712-shashank-raskas/certifications/2106572-csm)
 [![SAFe 6 Practitioner](https://img.shields.io/badge/SAFe%C2%AE%206-Practitioner-E94E1B?style=for-the-badge&labelColor=191919)](https://www.credly.com/badges/56f0dffa-9df2-42f8-b731-1311ab5baf62)
 ![Cambridge English B2+](https://img.shields.io/badge/Cambridge%20English-B2%2B-003087?style=for-the-badge&labelColor=191919)
 
 </div>
 
-## GitHub stats
+## GitHub activity
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=Shashank-Raskas&theme=radical&hide_border=true" height="165" alt="GitHub contribution streak" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashank-Raskas&theme=radical" height="165" alt="Top languages by repo" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shashank-Raskas/Shashank-Raskas/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shashank-Raskas/Shashank-Raskas/output/snake.svg" />
+  <img alt="Contribution graph with a snake eating the busiest days" src="https://raw.githubusercontent.com/Shashank-Raskas/Shashank-Raskas/output/snake.svg" />
+</picture>
 
 </div>
 
 ## Get in touch
 
-I'm open to new opportunities. Email is the quickest way to reach me, and I'm on LinkedIn too.
+I'm open to new opportunities. The quickest way to reach me is shashank.workfolio@gmail.com, and I'm on LinkedIn too.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shashankraskas.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://shashankraskas.vercel.app/)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Shashank%20Raskas-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/shashankraskas)
-[![Email](https://img.shields.io/badge/Email-shashank.workfolio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashank.workfolio@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://shashankraskas.vercel.app/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/shashankraskas)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashank.workfolio@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:6D28D9,100:C026D3&height=100&section=footer" width="100%" alt="" />
